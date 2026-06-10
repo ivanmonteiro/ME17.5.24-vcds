@@ -7,7 +7,8 @@ Este repositório fornece labels para o scanner VCDS compatíveis com a ECU (Mó
 - Voyage (a partir de 2013)
 - Saveiro G6 (a partir de 2013).
 
-Objetivo: disponibilizar uma label funcional que facilite a leitura de blocos de dados para realizar diagnósticos.Como a ECU ME17.5.24 saiu em carros brasileiros, não tem uma label padrão para ela, assim os blocos de medição ficam com labels genéricas e de difícil compreensão. Por isso criei este repositório onde estou testando labels que funcionem nesta ecu par ajudar no diagnóstico de problemas.
+Objetivo: disponibilizar uma label funcional que facilite a leitura de blocos de dados para realizar diagnósticos. Como a ECU ME17.5.24 saiu em carros brasileiros, o VCDS não tinha uma label padrão para ela, assim os blocos de medição ficam com descrições genéricas e de difícil compreensão. 
+Por isso criei este repositório, onde testei labels que possivelmente funcionem nesta ecu par ajudar no diagnóstico de problemas.
 
 **Informações principais**
 
