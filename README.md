@@ -2,7 +2,7 @@
 
 Este repositório fornece labels para o scanner VCDS compatíveis com a ECU (Módulo de injeção eletrônica) Bosch ME17.5.24 encontrada em modelos como:
 
-- Novo Gol G6
+- Novo Gol G6 (a partir de 2013)
 - Fox (a partir de 2013)
 - Voyage (a partir de 2013)
 - Saveiro G6 (a partir de 2013).
