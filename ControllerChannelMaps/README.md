@@ -1,6 +1,6 @@
 # ControllerChannelMap
 
-Esta pasta contém dados de mapeamento de canais do controlador de motor capturados via VCDS para a ECU ME17.5.24 utilizada nos veículos Novo Gol, Fox, Voyage a partir de 2013.
+Esta pasta contém labels para serem utilizados com o scanner VCDS para os veículos Novo Gol G6, Fox, Voyage a partir de 2013 com a ECU Bosch ME17.5.24.
 
 ## Arquivos
 
