@@ -1,0 +1,153 @@
+Friday,11,April,2025,18:59:50:00009
+VCDS -- Windows Based VAG/VAS Emulator Running on Windows 10 x64
+VCDS Version 24.5.0.0
+Data version: 20240429 DS355.0
+www.Ross-Tech.com
+
+
+VIN: 9B---------   License Plate: PG-------
+Mileage: 62820km-39034mi   Repair Order: 
+
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+Chassis Type: 5U-VW23 (5U - VW Novo Gol/Voyage/Saveiro (2013 >))
+Scan: 01 02 03 09 10 15 17 25 30 56
+ 
+VIN: 9B-----------   Mileage: 62820km-39034miles
+-------------------------------------------------------------------------------
+Address 01: Engine (CPB)       Labels: None
+   Part No SW: 030 906 020 E    HW: 030 907 309 A
+   Component: ME17.5.24        03 1405  
+   Revision: UJH04---    Serial number:               
+   Coding: 1C02108E100F4010
+   Shop #: WSC 01234 003 00001
+   VCID: 0919282360394BDE14-805D
+   VINID: 25------
+
+1 Faults Found:
+053271 - Please Check Fault Codes in Control Module for ABS Brakes 
+               U1017 - 000 -  - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100000
+                    Fault Priority: 0
+                    Fault Frequency: 254
+                    Reset counter: 255
+                    Mileage: 57421 km
+                    Time Indication: 0
+                    Date: 2052.14.17
+                    Time: 00:15:20
+
+             Freeze Frame:
+                    RPM: 1170 /min
+                    Load: 28.6 %
+                    Speed: 0.0 km/h
+                    Temperature: 69.0°C
+                    Temperature: 38.0°C
+                    Absolute Pres.: 360.0 mbar
+                    Voltage: 11.430 V
+
+Readiness: 0000 0000
+
+-------------------------------------------------------------------------------
+Address 03: ABS Brakes (J104)       Labels: None
+   Part No SW: 5U0 614 117 F    HW: 5U0 614 117 F
+   Component: EBC 460 ABS H03 0101  
+   Serial number: AAHC991
+   Coding: 10E3480680F50053089C121301FB0040400100
+   Shop #: WSC 07456 790 50316
+   ASAM Dataset: EV_Brake1ABSVWB23XTRW 001007
+   ROD: EV_Brake1ABSVWB23XTRW_VW23.rod
+   VCID: 3467A9D79F3B663697-8061
+
+2 Faults Found:
+0019 - Rear Left Wheel Speed Sensor 
+          C101C 29 [00001000] - Signal Implausible
+          Intermittent - Confirmed - Tested Since Memory Clear
+             Freeze Frame:
+                    Fault Priority: 1
+                    Fault Frequency: 14
+                    Reset counter: 26
+                    Mileage: 62191 km
+                    Date: 2127.14.31
+                    Time: 16:17:45
+
+                    DTC: 00 00 13
+
+0039 - Rear Left Wheel Speed Sensor 
+          C101C 01 [00001000] - Electrical Failure
+          Intermittent - Confirmed - Tested Since Memory Clear
+             Freeze Frame:
+                    Fault Priority: 1
+                    Fault Frequency: 254
+                    Reset counter: 37
+
+                    DTC: 00 00 27
+
+
+-------------------------------------------------------------------------------
+Address 09: Cent. Elect. (J519)       Labels: None
+   Part No SW: 34D 937 086     HW: 34D 937 086 
+   Component: BFM M         118 0028  
+   Coding: DFB4DC888A480F0F0D01992D100100021417
+   Shop #: WSC 07456 790 50316
+   ASAM Dataset: EV_BCMBFMHella 002004
+   ROD: EV_BCMBFMHella_001_VW21.rod
+   VCID: 6CD771B7878BFEF68F-8039
+
+   Subsystem 1 - Part No SW: 5U0 959 800     HW: 5U0 959 800 
+   Component: ZFH_2T  H02 1161 
+   Serial number: 3982BX00031115051734
+   Coding: 006B42
+
+   Subsystem 2 - Part No SW: 5U0 959 800     HW: 5U0 959 800 
+   Component: ZFH_2T  H02 1161 
+   Serial number: 3982BX00031115051734
+   Coding: 006B42
+
+No ASAM data for: "EV_BCMBFMHella" (VW23) 
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 15: Airbags (J234)       Labels:| 5Q0-959-655.clb
+   Part No SW: 34D 959 655     HW: 34D 959 655 
+   Component: AirbagVW20    004 0365  
+   Serial number: 003K5M06UCEQ Dataset Number: 5U0003v____ 0007
+   Coding: 8800C0000000000000000000000000000065
+   Shop #: WSC 07456 790 50316
+   ASAM Dataset: EV_AirbaVW20SMEVW253 001108
+   ROD: EV_AirbaVW20SMEVW253.rod
+   VCID: 72EB6FCFA5AF280645-8027
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 17: Instruments (J285)       Labels:| 5K0-920-xxx-17.clb-SRI1
+   Part No SW: 5U0 920 827 J    HW: 5U0 920 827 J
+   Component: KOMBI         H03 0016  
+   Serial number: 00000000000000
+   Coding: 810000
+   Shop #: WSC 07456 790 50316
+   ASAM Dataset: EV_Kombi_UDS_VDD_RM09 A04719
+   ROD: EV_Kombi_UDS_VDD_RM09_004_VW23.rod
+   VCID: 408FF507DB83CA9603-8015
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 25: Immobilizer (J334)       Labels:| 5K0-920-xxx-25.clb
+   Part No SW: 5U0 920 827 J    HW: 5U0 920 827 J
+   Component: IMMO          H03 0016  
+   Serial number:               
+   Coding: 000000
+   Shop #: WSC 00000 000 00000
+   ASAM Dataset: EV_Immo_UDS_VDD_RM09 A03709
+   ROD: EV_Immo_UDS_VDD_RM09_VW21.rod
+   VCID: 408FF507DB83CA9603-8015
+
+No fault code found.
+
+End-------------------------(Elapsed Time: 02:37)--------------------------
