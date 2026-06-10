@@ -25,7 +25,7 @@ Algumas labels incluídas neste repositório foram obtidas a partir de outros mo
 
 1. Baixe o repositório como um .zip
 
-Para baixar como ZIP: abra a página deste projeto no GitHub, clique em "Code" → "Download ZIP", salve e extraia o arquivo;
+    - Para baixar como ZIP: abra a página deste projeto no GitHub, clique em "Code" → "Download ZIP", salve e extraia o arquivo;
 
 2. Copie a label de referência
 
