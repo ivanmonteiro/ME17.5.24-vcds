@@ -49,6 +49,7 @@ Algumas labels incluídas neste repositório foram obtidas a partir de outros mo
 ## Contribuição
 
 Contribuições são bem-vindas.
+
 ## Contato
 
 Se tiver dúvidas, reporte uma issue ou entre em contato no repositório.
