@@ -1,15 +1,20 @@
-# ME17.5.24 — Labels para VCDS
+# Labels VCDS para ECU ME17.5.24
 
-Este repositório fornece labels para o scanner VCDS compatíveis com a ECU/Módulo de injeção ME17.5.24 encontrada em modelos como Novo Gol, Fox, Voyage e Saveiro (a partir de 2013).
+Este repositório fornece labels para o scanner VCDS compatíveis com a ECU (Módulo de injeção eletrônica) Bosch ME17.5.24 encontrada em modelos como:
 
-Objetivo: disponibilizar uma label funcional que facilite a leitura de blocos de dados para realizar diagnósticos em veículos equipados com a ECU ME17.5.24.
+- Novo Gol G6
+- Fox (a partir de 2013)
+- Voyage (a partir de 2013)
+- Saveiro G6 (a partir de 2013).
+
+Objetivo: disponibilizar uma label funcional que facilite a leitura de blocos de dados para realizar diagnósticos.Como a ECU ME17.5.24 saiu em carros brasileiros, não tem uma label padrão para ela, assim os blocos de medição ficam com labels genéricas e de difícil compreensão. Por isso criei este repositório onde estou testando labels que funcionem nesta ecu par ajudar no diagnóstico de problemas.
 
 **Informações principais**
 
 - **ECU:** ME17.5.24        03 1405  
 - **HW:** 030 907 309 A
 - **Part No SW:** 030 906 020 E 
-- **Veículo Testado:** VW Novo Gol 2014 1.0 TEC 4 Cilindros CPBA com ECU Bosch ME17.5.24.
+- **Veículo Testado:** VW Novo Gol 2014 1.0 TEC 4 Cilindros CPBA
 - **Versão do VCDS:** VCDS 24.5.0 (pode ser compatível com outras versões)
 
 ## Aviso sobre as labels
