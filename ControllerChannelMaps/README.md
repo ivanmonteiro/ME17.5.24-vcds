@@ -1,6 +1,6 @@
 # ControllerChannelMap
 
-Esta pasta contém dados de mapeamento de canais do controlador de motor capturados via VCDS para a ECU/Módulo de injeção ME17.5.24 encontrada em modelos como Novo Gol, Fox, Voyage e Saveiro (a partir de 2013).
+Esta pasta contém dados de mapeamento de canais do controlador de motor capturados via VCDS para a ECU/Módulo de injeção ME17.5.24 obtidos com o VCDS em um veículo Volkswagen Novo Gol G6 2014 1.0 4 Cil CPBA.
 
 ## Arquivos
 
